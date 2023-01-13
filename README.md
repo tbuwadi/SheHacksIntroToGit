@@ -1,1 +1,1 @@
-# SheHacksIntroToGit
+# SheHacks: Intro to Git Workshop
